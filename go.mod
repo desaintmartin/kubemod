@@ -10,7 +10,7 @@ require (
 	github.com/PaesslerAG/jsonpath v0.1.1
 	github.com/alron/ginlogr v0.0.4
 	github.com/evanphx/json-patch/v5 v5.1.0
-	github.com/gin-gonic/gin v1.6.3
+	github.com/gin-gonic/gin v1.9.1
 	github.com/go-logr/logr v0.1.0
 	github.com/google/wire v0.4.0
 	github.com/hexops/gotextdiff v1.0.3
@@ -18,7 +18,6 @@ require (
 	github.com/onsi/gomega v1.10.2
 	github.com/segmentio/ksuid v1.0.3
 	go.uber.org/zap v1.10.0
-	golang.org/x/sys v0.0.0-20200519105757-fe76b779f299
 	gomodules.xyz/jsonpatch/v2 v2.0.1
 	k8s.io/apimachinery v0.18.6
 	k8s.io/client-go v0.18.6
